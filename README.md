@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9989b509-ac68-496f-9b23-97857b6da873/deploy-status)](https://app.netlify.com/sites/luxury-pika-0a504a/deploys)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

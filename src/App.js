@@ -5,7 +5,6 @@ import Navigation from './components/navigation.mjs';
 const App = () => {
   return (
     <>
-      
       <Navigation />
       <Outlet />
     </>
